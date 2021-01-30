@@ -5,7 +5,7 @@
 [![gh stats](https://github-readme-stats.vercel.app/api?username=kokkiemouse&count_private=true&show_icons=true&theme=gotham)](https://github.com/kokkiemouse)
 
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=LFBS&theme=gotham)](https://github.com/FascodeNet/LFBS)
-[![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=flast-gecko&theme=gotham)](https://github.com/FascodeNet/LFBS)
+[![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=flast-gecko&theme=gotham)](https://github.com/FascodeNet/flast-gecko-nightly)
 
 どうも、ごちうさ好きの少年です。
 
