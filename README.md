@@ -24,12 +24,11 @@ I like Gochumon ha usagi desuka.
 
 
 ## Languages
-
-<a>
+<a href="https://isocpp.org/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/ISO_C++_Logo.svg" height="50px">
 </a>
-<a>
+<a href="https://www.oracle.com/java/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/java-icon.svg" height="50px">
 </a>
-<a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/C_Sharp_logo.svg" height="50px"></a>
