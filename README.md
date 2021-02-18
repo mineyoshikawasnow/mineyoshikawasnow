@@ -26,10 +26,10 @@ I like Gochumon ha usagi desuka.
 ## Languages
 
 <a>
-<img src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/ISO_C++_Logo.svg" height="50px">
+<img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/ISO_C++_Logo.svg" height="50px">
 </a>
 <a>
-<img src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/java-icon.svg" height="50px">
+<img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/java-icon.svg" height="50px">
 </a>
 <a>
-<img src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/C_Sharp_logo.svg" height="50px"></a>
+<img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/C_Sharp_logo.svg" height="50px"></a>
