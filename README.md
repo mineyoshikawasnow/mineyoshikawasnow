@@ -7,7 +7,10 @@
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=LUBS_F&theme=gotham)](https://github.com/FascodeNet/LUBS_F)
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=flast-gecko&theme=gotham)](https://github.com/FascodeNet/flast-gecko-nightly)
 
-I like Gochumon ha usagi desuka and Nonnon Biyori.
+I belong to Fascode Network.
+I'm a student of Fukushima High School.
+I'm a member of Super Science.
+
 ## IDEs
 <a href="https://code.visualstudio.com/insiders/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/Visual_Studio_Code_Insiders_1.36_icon.svg" width="50px"></a>
@@ -21,6 +24,11 @@ I like Gochumon ha usagi desuka and Nonnon Biyori.
 ## Toolkits
 <a href="https://www.qt.io/">
 <img src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/Qt_logo_2016.svg" width="50px"></a>
+
+## Frameworks
+
+<a href="https://reactjs.org/">
+<img src="https://raw.githubusercontent.com/kokkiemouse/kokkiemouse/main/imgs/React-icon.svg" width="75px"></a>
 
 
 ## Languages
