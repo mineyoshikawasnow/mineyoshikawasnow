@@ -1,6 +1,7 @@
 # kokkiemouse
 ![Agekun](https://img.shields.io/badge/Age-15-00AEEF?style=popout-square)
 ![Birthday](https://img.shields.io/badge/Birthday-2/3-purple?style=popout-square)
+![Club activity](https://img.shields.io/badge/Club_activity-Super_Science-purple?style=popout-square)
 
 [![gh stats](https://github-readme-stats.vercel.app/api?username=kokkiemouse&count_private=true&show_icons=true&theme=gotham)](https://github.com/kokkiemouse)
 
