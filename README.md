@@ -8,7 +8,9 @@
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=flast-gecko&theme=gotham)](https://github.com/FascodeNet/flast-gecko-nightly)
 
 I belong to Fascode Network.
+
 I'm a student of Fukushima High School.
+
 I'm a member of Super Science.
 
 ## IDEs
