@@ -8,7 +8,6 @@
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=SereneLinux&repo=serenelinux-kicks&theme=gotham)](https://github.com/SereneLinux/serenelinux-kicks)
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=userprofile_editor&theme=gotham)](https://github.com/FascodeNet/userprofile_editor)
 
-I belong to Fascode Network.
 
 I'm a student of Fukushima High School.
 
