@@ -1,5 +1,5 @@
 # kahenteikou
-![Agekun](https://img.shields.io/badge/Age-15-00AEEF?style=popout-square)
+![Agekun](https://img.shields.io/badge/Age-16-00AEEF?style=popout-square)
 ![Birthday](https://img.shields.io/badge/Birthday-2/3-purple?style=popout-square)
 ![Club activity](https://img.shields.io/badge/Club_activity-Super_Science-purple?style=popout-square)
 
