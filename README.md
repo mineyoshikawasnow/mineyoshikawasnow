@@ -35,7 +35,7 @@ I'm a student of Akita University.
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/main/imgs/ISO_C++_Logo.svg" height="50px">
 </a>
 <a href="https://www.oracle.com/java/">
-<img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/imgs/java-icon.svg" height="50px">
+<img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/main/imgs/java-icon.svg" height="50px">
 </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/main/imgs/C_Sharp_logo.svg" height="50px"></a>
