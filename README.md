@@ -2,7 +2,7 @@
 ![Agekun](https://img.shields.io/badge/Age-18-00AEEF?style=popout-square)
 ![Birthday](https://img.shields.io/badge/Birthday-2/3-purple?style=popout-square)
 
-[![gh stats](https://github-readme-stats.vercel.app/api?username=kahenteikou&count_private=true&show_icons=true&theme=gotham)](https://github.com/kahenteikou)
+[![gh stats](https://github-readme-stats.vercel.app/api?username=mineyoshikawasnow&count_private=true&show_icons=true&theme=gotham)](https://github.com/mineyoshikawasnow)
 
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=SereneLinux&repo=serenelinux-kicks&theme=gotham)](https://github.com/SereneLinux/serenelinux-kicks)
 [![gh statskun](https://github-readme-stats.vercel.app/api/pin/?username=FascodeNet&repo=userprofile_editor&theme=gotham)](https://github.com/FascodeNet/userprofile_editor)
