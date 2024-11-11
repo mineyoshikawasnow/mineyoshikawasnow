@@ -39,3 +39,5 @@ I'm a student of Akita University.
 </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/main/imgs/C_Sharp_logo.svg" height="50px"></a>
+<a href="https://www.rust-lang.org/">
+<img style="padding-right:10px;" src="https://raw.githubusercontent.com/mineyoshikawasnow/mineyoshikawasnow/main/imgs/rust-logo-blk.svg.svg" height="50px"></a>
